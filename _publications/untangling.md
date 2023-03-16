@@ -2,7 +2,7 @@
 title: "SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception"
 collection: publications
 permalink: /publication/untangling
-date: 2023
+date: 09-27-2022
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: 'https://arxiv.org/pdf/2209.13706.pdf'
 citation: 'Shivakumar, K., Viswanath, V., Gu, A., Avigal, Y., Kerr, J., Ichnowski, J., Cheng, R., Kollar, T., &amp; Goldberg, K. (2022, September 27). SGTM 2.0: Autonomously untangling long cables using interactive perception. arXiv.org.'
