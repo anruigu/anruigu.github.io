@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a student researcher at Berkeley AI Research after graduating with a B.A. in Computer Science. Previously I have done a series of Python data science projects, most notably building a production recommendation engine from scratch.
+I am a student researcher in [AUTOLab](https://autolab.berkeley.edu) at Berkeley AI Research after graduating with a B.A. in Computer Science. I have completed many Machine Learning/Deep Learning/Data Science projects, most notably building a production recommendation engine from scratch.

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anrui (Allie) Gu"
 title_separator          : "-"
 name                     : &name "Anrui Gu"
-description              : &description "ML Researcher"
+description              : &description "ML"
 url                      : "https://anruigu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anruigu.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Anrui (Allie) Gu"
-  avatar           : "profile.png"
-  bio              : "ML Research, CS @ UC Berkeley"
+  avatar           : "redhair.jpg"
+  bio              : "ML Research @ UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  # orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/yutu0523"
+  twitter          : "yutu0523"
   vine             :
   weibo            :
   xing             :
