@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} -->
+{% include base_path %}
 <!-- <embed src="https://drive.google.com/file/d/13VZHex8vfzOoSCJv0130zaAxZbl0QgoQ/view?usp=share_link" width="600" height="700">  -->
 <!-- <iframe
   frameborder="0"
