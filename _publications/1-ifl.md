@@ -1,5 +1,5 @@
 ---
-title: "[Pending Submssion] First author paper on fleet imitation learning"
+title: "[Pending Submssion] First-author paper on fleet imitation learning"
 date: 2023-01-03
 paperurl: "https://anruigu.github.io/publications/"
 ---
