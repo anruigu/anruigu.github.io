@@ -1,5 +1,5 @@
 ---
-title: "AlphaPoD: An Algorithm for Polyculture Seed Placement"
+title: "PolyPoD: An Algorithm for Polyculture Seed Placement"
 # collection: publications
 # permalink: "https://anruigu.github.io/publications/"
 date: 2023-01-01
