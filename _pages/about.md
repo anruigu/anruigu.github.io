@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher in [AUTOLab](https://autolab.berkeley.edu) at Berkeley AI Research after graduating with a B.A. in Computer Science. Check out my [Data Science](https://github.com/data-science-era) and [Machine Learning/Robotics](https://github.com/ml-robotics-era) projects on Github, ranging from drone path planning to a production recommendation engine built from scratch. 
+Hello! I am a researcher in [AUTOLab](https://autolab.berkeley.edu) at Berkeley AI Research after graduating with a B.A. in Computer Science. Check out my [Data Science](https://github.com/data-science-era) and [Machine Learning/Robotics](https://github.com/ml-robotics-era) projects on Github, ranging from drone path planning to a production recommendation engine built from scratch. Ny research interests are human-in-the-loop imitation learning and safe reinforcement learning.
 
 I'm actively job searching and would love to hear from you if you're hiring or just want to chat!
 
