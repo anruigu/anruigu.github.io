@@ -3,7 +3,7 @@ title: "PolyPoD: An Algorithm for Polyculture Seed Placement"
 # collection: publications
 # permalink: "https://anruigu.github.io/publications/"
 date: 2023-01-01
-# venue: 'Journal 1'
+venue: "IEEE International Conference on Automation Science and Engineering (CASE) 2023"
 paperurl: "https://anruigu.github.io/publications/"
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
