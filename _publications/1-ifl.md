@@ -1,8 +1,8 @@
 ---
 title: "IIFL: Implicit Interactive Fleet Learning from Heterogeneous Human Supervisors"
 # collection: publications
-date: 2023-06-15
-# venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
+date: 2023-08-30
+venue: 'Conference on Robot Learning (CoRL)'
 paperurl: "https://arxiv.org/abs/2306.15228"
 citation: 'Gaurav Datta*, Ryan Hoque*, Anrui Gu, Eugen Solowjow, Ken Goldberg (* equal contribution)'
 ---
