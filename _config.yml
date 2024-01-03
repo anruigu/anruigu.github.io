@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Anrui (Allie) Gu"
   avatar           : "redhair.jpg"
-  bio              : "ML Research Engineer"
-  location         : "NYC"
+  # bio              : "ML Research Engineer"
+  # location         : "NYC"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -222,6 +222,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _unpublished
+  - scope:
+      path: ""
+      type: unpublished
     values:
       layout: single
       author_profile: true

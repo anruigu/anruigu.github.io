@@ -1,6 +1,5 @@
 ---
 title: "CalPERS Divestment Report"
-published: True
 date: 2021-01-02
 venue: Fossil Free California Blog
 paperurl: "https://drive.google.com/file/d/1hMZXhaeeiL8DYt9REjJXxMz7MbIfF5wO/preview"

@@ -1,6 +1,5 @@
 ---
 title: "SGTM 2.0: Autonomously Untangling Long Cables using Interactive Perception"
-# collection: publications
 date: 2023-01-02
 venue: 'IEEE International Conference on Robotics and Automation (ICRA)'
 paperurl: "https://arxiv.org/abs/2209.13706"
