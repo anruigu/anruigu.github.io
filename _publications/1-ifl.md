@@ -1,6 +1,7 @@
 ---
 title: "IIFL: Implicit Interactive Fleet Learning from Heterogeneous Human Supervisors"
 # collection: publications
+published: True
 date: 2023-08-30
 venue: 'Conference on Robot Learning (CoRL)'
 paperurl: "https://arxiv.org/abs/2306.15228"

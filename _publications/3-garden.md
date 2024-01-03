@@ -1,7 +1,6 @@
 ---
 title: "PolyPoD: An Algorithm for Polyculture Seed Placement"
-# collection: publications
-# permalink: "https://anruigu.github.io/publications/"
+published: True
 date: 2023-01-01
 venue: "IEEE International Conference on Automation Science and Engineering (CASE)"
 paperurl: "https://anruigu.github.io/publications/"
