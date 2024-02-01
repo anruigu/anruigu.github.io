@@ -8,4 +8,4 @@ I grew up in Beijing and Los Angeles, where I was a writer, debater and communit
 
 I originally switched to CS in order to become a better science fiction writer. I strongly identify with my best characters: a fictional character (in my fiction!) that uses calligraphy to bring humans into existence, and a human imprisoned in a computer that spearheads the AI Consciousness Movement. 
 
-For a fun read, check out my thesis on [how science fiction films use religion to criticize capitalism’s creation of androids](https://docs.google.com/document/d/1uQ_1Kn-7BNHuzPLhZ3iB0iwZb9esrRF_aMzJKcUW-Dk/edit). 
+For a fun read, check out my thesis on [science fiction films' religious critique of androids and capitalism](https://docs.google.com/document/d/1uQ_1Kn-7BNHuzPLhZ3iB0iwZb9esrRF_aMzJKcUW-Dk/edit). 

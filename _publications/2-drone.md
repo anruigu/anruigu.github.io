@@ -4,4 +4,4 @@ title: "Drone Path Planning"
 venue: 'Berkeley FHL Vive Center for Enhanced Reality'
 paperurl: "https://github.com/ml-robotics-era/drone-planning"
 ---
-Implementation and visualization of 4D A* and RRT* algorithms for drone obstacle avoidance.p
+Adaptation and analysis of 4D A* and RRT* algorithms for drone obstacle avoidance in simulation.
