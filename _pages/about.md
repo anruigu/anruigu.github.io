@@ -37,7 +37,7 @@ redirect_from:
 Previously:
 - led [industry-leading fake chip detection](https://smithweb.com/general/ introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
 - robot whisperer @ [NYU GRAIL](https://www.lerrelpinto.com/)
-- spawned the recommendation engine @ [Frontrow Health](https://www.frontrowmd.com/)
+- spawned the recommendation algorithm @ [Frontrow Health](https://www.frontrowmd.com/)
 </div>
 
 At **Berkeley**, I switched to CS to become a **better science fiction writer**, but then discovered research in [AUTOLab](https://autolab.berkeley.edu), tutored for the class [CS 182/282A: Deep Learning](https://inst.eecs.berkeley.edu/~cs182/fa22/), and [mentored](https://www.berkeleyanova.org/) underserved Oakland students in introductory CS.
