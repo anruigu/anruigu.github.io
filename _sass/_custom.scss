@@ -368,6 +368,60 @@ pre {
 }
 
 /* Responsive adjustments */
+
+/* Mobile-specific styles (small screens) */
+@include breakpoint($small down) {
+  .social-links {
+    gap: 0.5em;
+
+    .social-link {
+      padding: 0.4em 0.7em;
+      font-size: 0.85em;
+
+      i {
+        font-size: 1em;
+      }
+
+      span {
+        font-size: 0.9em;
+      }
+    }
+  }
+
+  .hero-section {
+    h1, h2 {
+      font-size: clamp(2em, 8vw, 2.5em);
+    }
+  }
+
+  .previously-section {
+    font-size: 0.95em;
+
+    ul li {
+      font-size: 0.95em;
+    }
+  }
+
+  .page__content {
+    h2 {
+      font-size: 0.95em;
+    }
+
+    p {
+      font-size: 0.95em;
+    }
+  }
+
+  .archive__item {
+    padding: 1.25em;
+
+    &:hover {
+      transform: translateY(-2px);
+    }
+  }
+}
+
+/* Medium screens and up */
 @include breakpoint($medium) {
   .hero-section {
     padding: 6em 0 4em;
