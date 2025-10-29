@@ -35,14 +35,14 @@ redirect_from:
 
 <div class="previously-section" markdown="1">
 Previously:
-- led [industry-leading chip inspection](https://smithweb.com/general/ introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
+- led [industry-leading chip inspection](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
 - robot whisperer @ [NYU GRAIL](https://www.lerrelpinto.com/)
 - spawned the recommendation algorithm @ [Frontrow Health](https://www.frontrowmd.com/)
 </div>
 
 At **Berkeley**, I switched to CS to become a **better science fiction writer**, but then discovered research in [AUTOLab](https://autolab.berkeley.edu), tutored for the class [CS 182/282A: Deep Learning](https://inst.eecs.berkeley.edu/~cs182/fa22/), and [mentored](https://www.berkeleyanova.org/) underserved Oakland students in introductory CS.
 
-I grew up in Beijing and Los Angeles, where I heavily pursued **writing, cultural stuff, and community advocacy**. Living between China and the U.S. has given me a deep appreciation for our **essential humanity**, which I hope accentuate via my work and in life. 
+I grew up in Beijing and California, where I heavily pursued **writing, cultural, and community** stuff. Living between China and the U.S. has given me a deep appreciation for our **essential humanity**, which I hope accentuate via my work and in life. 
 
 I still love sci-fi! Check out my thesis on [science fiction films' religious critique of **androids and capitalism**](https://docs.google.com/document/d/19uDgbFswI1c3j_xoZVTU2A9e8JVsoKfk/edit?usp=sharing&ouid=110117410702290972624&rtpof=true&sd=true).
 
