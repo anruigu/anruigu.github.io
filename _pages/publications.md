@@ -2,15 +2,17 @@
 layout: archive
 title: "Projects"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
 {% include base_path %}
 
+<div class="projects-intro">
+Selected tinkering in machine learning, robotics, and computer vision.
+</div>
+
+<div class="projects-grid">
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+</div>

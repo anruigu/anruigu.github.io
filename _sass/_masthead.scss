@@ -3,7 +3,10 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
+  position: sticky;
+  top: 0;
+  background: rgba(232, 245, 237, 0.95);
+  backdrop-filter: blur(10px);
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -14,8 +17,10 @@
   &__inner-wrap {
     @include container;
     @include clearfix;
-    padding: 1em 1em 1em;
+    padding: 1.25em 2em;
     font-family: $sans-serif-narrow;
+    max-width: 1280px;
+    margin: 0 auto;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -27,6 +32,8 @@
 
     a {
       text-decoration: none;
+      font-weight: 500;
+      transition: $global-transition;
     }
   }
 }
