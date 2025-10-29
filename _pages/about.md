@@ -35,7 +35,7 @@ redirect_from:
 
 <div class="previously-section" markdown="1">
 Previously:
-- led [industry-leading fake chip detection](https://smithweb.com/general/ introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
+- led [industry-leading chip inspection](https://smithweb.com/general/ introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
 - robot whisperer @ [NYU GRAIL](https://www.lerrelpinto.com/)
 - spawned the recommendation algorithm @ [Frontrow Health](https://www.frontrowmd.com/)
 </div>
