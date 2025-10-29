@@ -42,7 +42,7 @@ Previously:
 
 At **Berkeley**, I switched to CS to become a **better science fiction writer**, but then discovered research in [AUTOLab](https://autolab.berkeley.edu), tutored for the class [CS 182/282A: Deep Learning](https://inst.eecs.berkeley.edu/~cs182/fa22/), and [mentored](https://www.berkeleyanova.org/) underserved Oakland students in introductory CS.
 
-I grew up in Beijing and Los Angeles, where I heavily pursued **writing, cultural stuff, and community advocacy**. Living between China and the U.S. has given me a deep appreciation for our **essential humanity**, which I hope accentuate via my AI work and in life. 
+I grew up in Beijing and Los Angeles, where I heavily pursued **writing, cultural stuff, and community advocacy**. Living between China and the U.S. has given me a deep appreciation for our **essential humanity**, which I hope accentuate via my work and in life. 
 
 I still love sci-fi! Check out my thesis on [science fiction films' religious critique of **androids and capitalism**](https://docs.google.com/document/d/19uDgbFswI1c3j_xoZVTU2A9e8JVsoKfk/edit?usp=sharing&ouid=110117410702290972624&rtpof=true&sd=true).
 
