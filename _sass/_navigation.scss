@@ -177,6 +177,11 @@
   min-width: 250px;
   background: $background-color;
 
+  @include breakpoint($small down) {
+    display: flex;
+    align-items: center;
+  }
+
   a {
     display: block;
     margin: 0 1rem;
@@ -199,6 +204,7 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+    z-index: 15;
     -webkit-tap-highlight-color: rgba(0,0,0,0.1);
     touch-action: manipulation;
 
@@ -210,6 +216,12 @@
 
   .visible-links {
     display: table;
+    flex: 1;
+    max-width: calc(100% - 60px);
+
+    @include breakpoint($small down) {
+      overflow: hidden;
+    }
 
     li {
       display: table-cell;
@@ -220,6 +232,15 @@
 
         a {
           margin-left: 0;
+          position: relative;
+          z-index: 1;
+
+          @include breakpoint($small down) {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            max-width: calc(100vw - 80px);
+          }
         }
       }
 

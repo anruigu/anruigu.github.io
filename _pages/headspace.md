@@ -13,7 +13,7 @@ author_profile: true
     - Can’t be too smart for your own good
 - Things unique to humans to increasingly **differentiate**: risk-taking & boundary-pushing
 
-## Favorite books in no particular order 
+### Favorite books in no particular order 
 Fuel to fire of my main character phase:
 - Foundation’s Edge by Asimov
 - Contact by Carl Sagan
@@ -23,7 +23,7 @@ Fuel to fire of my main character phase:
 
 ### [My Goodreads](https://www.goodreads.com/user/show/45587605-anrui-gu)
 
-## Favorite musicals
+### Favorite musicals
 Female main character energy again:
 - Elisabeth (a German musical about a romance with *der Tod* aka Death… you must check it out at least once in life)
 - Frozen
