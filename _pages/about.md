@@ -35,6 +35,7 @@ redirect_from:
 
 <div class="previously-section" markdown="1">
 
+
 Previously:
 - made your X feed better
 - led [novel chip inspection](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
