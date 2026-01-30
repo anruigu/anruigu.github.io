@@ -5,16 +5,13 @@ permalink: /headspace/
 author_profile: true
 ---
 
-## Currently top of mind:
-- Cognition / consciousness / wisdom
-    - Thinking & consciousness. Pre-verbal things
-- Identity as a root of behavior
-    - I think I’m a good thinker. However, that is maybe just half of who I am
-- How neuroscientists / cognitive scientists think about this
-- Creating a **being** vs creating a **product** (both humans & AI): critical thinking, utility
-    - e.g. Replicants in Blade Runner or fabricants in Cloud Atlas, or geishas
+### Thinking about:
+- **Cognition / consciousness / wisdom**: pre-verbal things & neuroscience
+- **Identity -> behavior**: I think I’m a good thinker. However, that is maybe just half of who I am
+- Creating a **being** vs creating a **product**: the role of critical thinking, utility
+    - e.g. Replicants in Blade Runner or fabricants in Cloud Atlas
     - Can’t be too smart for your own good
-- Things unique to humans that we can differentiate more and more: risk-taking & boundary-pushing
+- Things unique to humans to increasingly **differentiate**: risk-taking & boundary-pushing
 
 ## Favorite books in no particular order 
 Fuel to fire of my main character phase:

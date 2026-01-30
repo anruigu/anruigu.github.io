@@ -199,6 +199,13 @@
     background-color: $primary-color;
     color: #fff;
     cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0,0,0,0.1);
+    touch-action: manipulation;
+
+    @include breakpoint($small down) {
+      min-width: 50px;
+      min-height: 44px;
+    }
   }
 
   .visible-links {

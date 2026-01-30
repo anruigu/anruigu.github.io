@@ -64,7 +64,8 @@ $(window).resize(function() {
   updateNav();
 });
 
-$btn.on('click', function() {
+$btn.on('click touchend', function(e) {
+  e.preventDefault();
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
 });
