@@ -7,7 +7,7 @@ author_profile: true
 
 ### Thinking about:
 - **Cognition / consciousness / wisdom**: pre-verbal things & neuroscience
-- **Identity -> behavior**: I think I’m a good thinker. However, that is maybe just half of who I am
+- **Identity -> behavior**: I think I’m an okay thinker, but that's maybe less than half of who I am
 - Creating a **being** vs creating a **product**: the role of critical thinking, utility
     - e.g. Replicants in Blade Runner or fabricants in Cloud Atlas
     - Can’t be too smart for your own good

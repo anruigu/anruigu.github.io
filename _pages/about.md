@@ -34,14 +34,11 @@ redirect_from:
 </div>
 
 <div class="previously-section" markdown="1">
+
 Previously:
-- led [industry-leading chip inspection](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
-- robot whisperer @ [NYU GRAIL](https://www.lerrelpinto.com/)
-- spawned the recommendation algorithm @ [Frontrow Health](https://www.frontrowmd.com/)
-</div>
+- made your X feed better
+- led [novel chip inspection](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
+- tinkered with robots @ [Berkeley](https://bair.berkeley.edu/) & [NYU](https://www.lerrelpinto.com/)
 
-At **Berkeley**, I switched to CS because I figured the best sci-fi writers were technical. Then I discovered research in [AUTOLab](https://autolab.berkeley.edu), tutored for the class [CS 182/282A: Deep Learning](https://inst.eecs.berkeley.edu/~cs182/fa22/), and [mentored](https://www.berkeleyanova.org/) Oakland students in introductory CS.
-
-I grew up in Beijing and California, where I heavily pursued **writing, cultural, and community** stuff. Living between China and the U.S. has given me a deep appreciation for our **essential humanity**, which I hope accentuate via my work and in life. 
-
+My gift is building bridges, turning unconventional experiences into strengths. I grew up a humanities kid in Beijing and California enjoying **writing, cultural, and community** pursuits. I've spent half my life in each place and swear by the things that **unite** instead of **divide** us. I seek to apply this bridge-building principle to intelligences in general. 
 
