@@ -1,0 +1,124 @@
+/* Green Stripes Theme */
+
+#green-stripes {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: 0;
+  overflow: hidden;
+}
+
+.stripes-left,
+.stripes-right {
+  position: absolute;
+  top: 0;
+  height: 100%;
+  width: 20vw;
+  pointer-events: none;
+}
+
+.stripes-left {
+  left: 0;
+  background: linear-gradient(to right,
+    #3d5f4d 0%,
+    #3d5f4d 45%,
+    #5c8a6e 45%,
+    #5c8a6e 70%,
+    #d4ddb0 70%,
+    #d4ddb0 80%,
+    #8bb897 80%,
+    #8bb897 100%
+  );
+}
+
+.stripes-right {
+  right: 0;
+  background: linear-gradient(to left,
+    #3d5f4d 0%,
+    #3d5f4d 45%,
+    #5c8a6e 45%,
+    #5c8a6e 70%,
+    #d4ddb0 70%,
+    #d4ddb0 80%,
+    #8bb897 80%,
+    #8bb897 100%
+  );
+}
+
+/* Ensure main content is above stripes */
+body > *:not(#green-stripes) {
+  position: relative;
+  z-index: 1;
+}
+
+/* Add padding to main content areas to avoid stripe overlap */
+.page__content,
+.page__inner-wrap,
+.masthead,
+main {
+  padding-left: max(2rem, 8vw) !important;
+  padding-right: max(2rem, 8vw) !important;
+}
+
+/* Specific adjustments for common content containers */
+.hero-section,
+.content,
+article {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1200px) {
+  .stripes-left,
+  .stripes-right {
+    width: 18vw;
+  }
+
+  .page__content,
+  .page__inner-wrap,
+  .masthead,
+  main {
+    padding-left: max(2rem, 7vw) !important;
+    padding-right: max(2rem, 7vw) !important;
+  }
+}
+
+@media (max-width: 768px) {
+  .stripes-left,
+  .stripes-right {
+    width: 15vw;
+  }
+
+  .page__content,
+  .page__inner-wrap,
+  .masthead,
+  main {
+    padding-left: max(1.5rem, 6vw) !important;
+    padding-right: max(1.5rem, 6vw) !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .stripes-left,
+  .stripes-right {
+    width: 12vw;
+  }
+
+  .page__content,
+  .page__inner-wrap,
+  .masthead,
+  main {
+    padding-left: max(1rem, 4vw) !important;
+    padding-right: max(1rem, 4vw) !important;
+  }
+
+  /* Reduce opacity on very small screens */
+  #green-stripes {
+    opacity: 0.7;
+  }
+}

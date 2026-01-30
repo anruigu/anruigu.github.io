@@ -55,6 +55,23 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-weight: 800;
+    font-size: 1.1em;
+
+    a {
+      color: $dark-gray;
+      transition: color 0.3s ease;
+      background: none;
+      border: none;
+      box-shadow: none;
+      padding: 0;
+
+      &:hover {
+        color: #228B22;
+        background: none;
+        border: none;
+        box-shadow: none;
+      }
+    }
   }
 }

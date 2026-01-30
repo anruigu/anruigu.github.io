@@ -36,10 +36,19 @@
 .page__title {
   margin-top: 0;
   margin-bottom: 0.5em;
+  padding-top: 1.5em;
   line-height: 1.2;
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-size: 2em;
+  font-weight: 900;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
   color: $darker-gray;
+  display: block;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 
   & + .page__meta {
     margin-top: -0.5em;

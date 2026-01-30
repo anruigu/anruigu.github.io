@@ -2,3 +2,6 @@
 main:
   - title: "Projects"
     url: /publications/
+
+  - title: "Headspace"
+    url: /headspace/

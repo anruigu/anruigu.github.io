@@ -14,8 +14,8 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif;
-$monospace                  : "JetBrains Mono", "Fira Code", "SF Mono", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+$sans-serif                 : "Space Grotesk", "Inter", -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu", sans-serif;
+$monospace                  : "JetBrains Mono", "SF Mono", Monaco, Consolas, monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -57,9 +57,9 @@ $lighter-gray               : #f3f4f6;
 $body-color                 : #e8f5ed;
 $background-color           : #e8f5ed;
 $code-background-color      : #d4ede0;
-$code-background-color-dark : #c1e4d3;
+$code-background-color-dark : #c8e8d8;
 $text-color                 : #111827;
-$border-color               : #c1e4d3;
+$border-color               : #c8e8d8;
 
 /* Modern accent colors */
 $primary-color              : #2563eb;  // Modern blue
@@ -92,11 +92,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #9333ea;
-$link-color-hover           : #7c3aed;
-$link-color-visited         : #6b21a8;
+$link-color                 : #3d8558;
+$link-color-hover           : #4a9668;
+$link-color-visited         : #2d6443;
 $masthead-link-color        : $dark-gray;
-$masthead-link-color-hover  : #9333ea;
+$masthead-link-color-hover  : #3d8558;
 
 
 /*
