@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Anrui (Allie) Gu"
+excerpt: "Allie Gu"
 author_profile: false
 redirect_from:
   - /about/

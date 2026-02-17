@@ -71,6 +71,11 @@ $btn.on('click', function(e) {
   $(this).toggleClass('close');
 });
 
+// Prevent dropdown from closing when clicking inside it
+$hlinks.on('click', function(e) {
+  e.stopPropagation();
+});
+
 // Close dropdown when clicking outside
 $(document).on('click touchstart', function(e) {
   if (!$(e.target).closest('#site-nav').length) {
