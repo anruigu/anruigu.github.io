@@ -33,13 +33,15 @@ redirect_from:
 
 </div>
 
+[Grok 4.1](https://x.ai/news/grok-4-1) and Grok 4.2 post-training: data, recipe, and evals for various quality-related capabilities.
+
 <div class="previously-section" markdown="1">
 
 
 Previously:
 - made your X feed better
-- led [novel chip inspection](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
+- led [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
 - tinkered with robots @ [Berkeley](https://bair.berkeley.edu/) & [NYU](https://www.lerrelpinto.com/)
 
-My gift is building bridges, turning unconventional experiences into strengths. I grew up a humanities kid in Beijing and California enjoying **writing, cultural, and community** pursuits. I've spent half my life in each place and swear by the things that **unite** instead of **divide** us. I seek to apply this bridge-building principle to intelligences in general. 
+My gift is building bridges, turning unconventional experiences into strengths. I grew up in Beijing and California steeped deeply in the humanities -- **writing, cultural, and community** pursuits. I've spent half my life in each place and swear by the things that **unite** instead of **divide** us. I seek to apply this bridge-building principle to intelligences in general. 
 

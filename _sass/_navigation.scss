@@ -293,11 +293,16 @@
     border-radius: $border-radius;
     background: #fff;
     box-shadow: 0 0 10px rgba(#000, 0.25);
+    z-index: 101;
 
     a {
       margin: 0;
       padding: 10px 20px;
       font-size: $type-size-5;
+      position: relative;
+      z-index: 102;
+      pointer-events: auto;
+      touch-action: manipulation;
 
       &:hover {
         color: $masthead-link-color-hover;

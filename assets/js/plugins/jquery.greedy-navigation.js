@@ -64,10 +64,19 @@ $(window).resize(function() {
   updateNav();
 });
 
-$btn.on('click touchend', function(e) {
+$btn.on('click', function(e) {
   e.preventDefault();
+  e.stopPropagation();
   $hlinks.toggleClass('hidden');
   $(this).toggleClass('close');
+});
+
+// Close dropdown when clicking outside
+$(document).on('click touchstart', function(e) {
+  if (!$(e.target).closest('#site-nav').length) {
+    $hlinks.addClass('hidden');
+    $btn.removeClass('close');
+  }
 });
 
 updateNav();
