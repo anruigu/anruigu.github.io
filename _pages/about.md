@@ -33,7 +33,7 @@ redirect_from:
 
 </div>
 
-**xAI: [Grok 4.1 Fast](https://x.ai/news/grok-4-1) and 4.2 post-training -- data, recipe, and evals for subjective capabilities**
+**xAI: [Grok 4.1 Fast](https://x.ai/news/grok-4-1) and 4.2 post-training -- data, recipe, and evals for SOTA subjective capabilities**
 
 <div class="previously-section" markdown="1">
 
