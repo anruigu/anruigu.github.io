@@ -22,6 +22,7 @@ author_profile: true
 - Hadestown
 - Frozen
 - Moulin Rouge
+- I'm also a Swiftie (Female Rage the Musical iykyk)
 
 ### Note on imposter syndrome
 I'm really grateful to work alongside people with track records of STEM research and international competitions. I'd wanted to be a sci-fi writer when I first got into AI. Having struggled through it, I'd love help folks feel like they belong. Please feel free to reach out on X if you want to chat.
