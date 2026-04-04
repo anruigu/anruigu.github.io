@@ -12,7 +12,7 @@ redirect_from:
 
 ## Ahead: Allieverse
 
-**Veritas & Vibes @ [xAI](https://x.ai/)**
+**[Thoughts on Scaling Taste](https://www.notion.so/Scaling-Taste-3357dfe162db802aa71cc4c85e3273db)**
 
 <div class="contact-section contact-section--top" markdown="1">
 
@@ -33,7 +33,7 @@ redirect_from:
 
 </div>
 
-[Grok 4.1](https://x.ai/news/grok-4-1) and Grok 4.2 post-training: data, recipe, and evals for various quality-related capabilities.
+**xAI: [Grok 4.1 Fast](https://x.ai/news/grok-4-1) and 4.2 post-training -- data, recipe, and evals for subjective capabilities**
 
 <div class="previously-section" markdown="1">
 
@@ -41,7 +41,6 @@ redirect_from:
 Previously:
 - made your X feed better
 - led [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
-- tinkered with robots @ [Berkeley](https://bair.berkeley.edu/) & [NYU](https://www.lerrelpinto.com/)
+- robot whisperer @ Berkeley & NYU
 
-My gift is building bridges, turning unconventional experiences into strengths. I grew up in Beijing and California steeped deeply in the humanities -- **writing, cultural, and community** pursuits. I've spent half my life in each place and swear by the things that **unite** instead of **divide** us. I seek to apply this bridge-building principle to intelligences in general. 
-
+My gift is building bridges. I've spent half my life in Beijing and half in California, mainly pursuing **writing, culture, and community-building**. I swear by the things that **unite** instead of **divide** us and seek to apply this principle to intelligences in general.
