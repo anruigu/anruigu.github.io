@@ -54,6 +54,11 @@ body > *:not(#green-stripes) {
   z-index: 1;
 }
 
+/* Keep masthead (and its dropdown) above later body children so mobile nav links remain clickable */
+body > .masthead {
+  z-index: 20;
+}
+
 /* Add padding to main content areas to avoid stripe overlap */
 .page__content,
 .page__inner-wrap,
