@@ -14,10 +14,10 @@ author_profile: true
 - Contact
 - Hyperion Cantos
 - 1984
-- In Chinese: 文化苦旅 (A Bitter Journey through Culture). Not well-known in the West, but it was half of my teenage personality :p
+- In Chinese: 文化苦旅 (A Bitter Journey through Culture)
 
 ### Favorite musicals
-- Elisabeth (In German. A lifelong romance with *der Tod* aka Death)
+- Elisabeth (German. A lifelong romance with *der Tod* aka Death)
 - Hadestown
 - Frozen
 - Moulin Rouge

@@ -19,7 +19,7 @@ redirect_from:
     <i class="fab fa-github"></i>
     <span>GitHub</span>
   </a>
-  <a href="https://twitter.com/yutu0523" class="social-link">
+  <a href="https://x.com/endlessgit" class="social-link">
     <i class="fab fa-twitter"></i>
     <span>X</span>
   </a>
