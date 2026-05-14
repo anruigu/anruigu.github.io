@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Research scientist @ [Fleet](fleetai.com). User modeling, subjectivity, creativity.
+Research scientist @ [Fleet](https://fleetai.com). User modeling, subjectivity, creativity.
 
 <div class="previously-section" markdown="1">
 
