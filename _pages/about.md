@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Research scientist (& unofficial artist) @ [Fleet](https://fleetai.com).
+Research scientist & artist-ish @ [Fleet](https://fleetai.com).
 
 <div class="previously-section" markdown="1">
 
