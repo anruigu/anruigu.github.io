@@ -6,7 +6,7 @@ author_profile: true
 ---
 - **Empathy**: A deliberate and thoughtful attempt at aligning with the other rather than full simulation of their experience
 - **Behavior**: Cognition, consciousness, wisdom, weirdness & quirkiness
-- **Co-evolution**: Societal transformation, unlocking everyone's potential
+- **Co-evolution**: Spiritually an economist studying societal transformation
 
 
 ### Favorite books -- [Goodreads](https://www.goodreads.com/user/show/45587605-anrui-gu)
@@ -24,4 +24,4 @@ author_profile: true
 - I'm also a Swiftie (Female Rage the Musical iykyk)
 
 ### Note on imposter syndrome
-I'm really grateful to work alongside people with strong "pretraining" in STEM. I was a humanities kid and wanted to be a sci-fi writer. The field can be cutthroat, and I'd love help folks feel like they belong. Please feel free to reach out on X.
+In my past life, I was a humanities kid and wanted to be a sci-fi writer. Finding AI research without strong pretraining in STEM can be hard, and I'd love to help folks feel like they belong. Please feel free to reach out on X.

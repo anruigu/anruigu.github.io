@@ -10,9 +10,7 @@ redirect_from:
 
 <div class="hero-section hero-section--compact" markdown="1">
 
-## Ahead: Allieverse
-
-**[Thoughts on Scaling Taste](https://www.notion.so/Scaling-Taste-3357dfe162db802aa71cc4c85e3273db)**
+## Understand the Allieverse
 
 <div class="contact-section contact-section--top" markdown="1">
 
@@ -33,14 +31,13 @@ redirect_from:
 
 </div>
 
-**xAI: [Grok 4.1 Fast](https://x.ai/news/grok-4-1) and 4.2 post-training -- data, recipe, and evals for SOTA subjective capabilities**
+Research scientist @ [Fleet](fleetai.com). User modeling, subjectivity, creativity.
 
 <div class="previously-section" markdown="1">
 
+- xAI: <a href="https://x.ai/news/grok-4-1">Grok 4.1 Fast</a> and 4.2 posttraining -- data, recipe, and evals for taste & alignment
+- X: made your feed less sloppy & understand you better
+- Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
+- Cal: robotics & imitation learning
 
-Previously:
-- made your X feed better
-- led [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) @ Smith
-- robot whisperer @ Berkeley & NYU
-
-My gift is building bridges. I've spent half my life in Beijing and half in California, mainly pursuing **writing, culture, and community-building**. I swear by the things that **unite** instead of **divide** us and seek to apply this principle to intelligences in general.
+My gift is building bridges. I've spent half my life in Beijing and half in California, mainly pursuing **writing, culture, and community-building**. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.
