@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Research scientist & artist-ish @ [Fleet](https://fleetai.com).
+Hey! I'm a research scientist & artist(ish) @ [Fleet](https://fleetai.com).
 
 <div class="previously-section" markdown="1">
 
@@ -40,4 +40,4 @@ Research scientist & artist-ish @ [Fleet](https://fleetai.com).
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
 - Cal: robotics & imitation learning
 
-My gift is building bridges. I've spent half my life in Beijing and half in California, mainly pursuing **writing, culture, and community-building**. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.
+I'm a bridge-builder. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.

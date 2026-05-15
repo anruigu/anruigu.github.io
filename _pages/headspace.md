@@ -22,6 +22,3 @@ author_profile: true
 - Frozen
 - Moulin Rouge
 - I'm also a Swiftie (Female Rage the Musical iykyk)
-
-### Note on imposter syndrome
-In my past life, I was a humanities kid and wanted to be a sci-fi writer. Finding AI research without strong pretraining in STEM can be hard, and I'd love to help folks feel like they belong. Please feel free to reach out on X.
