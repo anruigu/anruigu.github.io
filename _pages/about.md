@@ -38,6 +38,6 @@ Hey! I'm a research scientist & artist(ish) @ [Fleet](https://fleetai.com).
 - xAI: <a href="https://x.ai/news/grok-4-1">Grok 4.1 Fast</a> and 4.2 posttraining -- data, recipe, and evals for taste & alignment
 - X: made your feed less sloppy & understand you better
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
-- Cal: robotics & imitation learning
+- Cal: imitation learning with human feedback
 
 I'm a bridge-builder. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.
