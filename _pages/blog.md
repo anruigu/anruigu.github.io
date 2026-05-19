@@ -8,7 +8,7 @@ author_profile: true
 <div class="blog-cards">
 
 <a href="https://www.notion.so/Scaling-Taste-3357dfe162db802aa71cc4c85e3273db" class="blog-card" target="_blank" rel="noopener">
-  <div class="blog-card__title">Thoughts on Scaling Taste</div>
+  <div class="blog-card__title">Scaling Taste</div>
   <div class="blog-card__preview">Subjective capabilities require more than creating pseudo-verification to plug back into RLVR approaches that worked for math/coding. It requires deciding what/when/how to introduce human supervision, creative ways to generate/insert it, and learning good representations of human data to maximally utilize it.</div>
   <div class="blog-card__meta">Read on Notion &rarr;</div>
 </a>
