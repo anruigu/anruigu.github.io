@@ -41,3 +41,5 @@ Hey! I'm a research scientist & artist(ish) @ [Fleet](https://fleetai.com).
 - Cal: imitation learning with human feedback
 
 I'm a bridge-builder. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.
+
+[Goodreads](https://www.goodreads.com/user/show/45587605-anrui-gu)
