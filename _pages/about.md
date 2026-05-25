@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm an RL researcher & artist(ish) @ [Fleet](https://fleetai.com).
+Hey! I'm an RL researcher & artist-ish @ [Fleet](https://fleetai.com).
 
 <div class="previously-section" markdown="1">
 
