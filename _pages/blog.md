@@ -7,15 +7,15 @@ author_profile: true
 
 <div class="blog-cards">
 
-<a href="https://www.notion.so/Scaling-Taste-3357dfe162db802aa71cc4c85e3273db" class="blog-card" target="_blank" rel="noopener">
-  <div class="blog-card__title">Scaling Taste</div>
-  <div class="blog-card__preview">Subjective capabilities require more than creating pseudo-verification to plug back into RLVR approaches that worked for math/coding. It requires deciding what/when/how to introduce human supervision, creative ways to generate/insert it, and learning good representations of human data to maximally utilize it.</div>
-  <div class="blog-card__meta">Read on Notion &rarr;</div>
-</a>
-
 <a href="https://app.notion.com/p/IRL-2-RL-algorithms-to-live-by-3717dfe162db80938144c47a317a53f7" class="blog-card" target="_blank" rel="noopener">
   <div class="blog-card__title">IRL&sup2;: RL Algorithms to Live By</div>
   <div class="blog-card__preview">I&rsquo;m doing inverse reinforcement learning on myself to know me better. Call it IRL&sup2;, inverse RL in real life.</div>
+  <div class="blog-card__meta">Read on Notion &rarr;</div>
+</a>
+
+<a href="https://www.notion.so/Scaling-Taste-3357dfe162db802aa71cc4c85e3273db" class="blog-card" target="_blank" rel="noopener">
+  <div class="blog-card__title">Scaling Taste</div>
+  <div class="blog-card__preview">Subjective capabilities require more than creating pseudo-verification to plug back into RLVR approaches that worked for math/coding. It requires deciding what/when/how to introduce human supervision, creative ways to generate/insert it, and learning good representations of human data to maximally utilize it.</div>
   <div class="blog-card__meta">Read on Notion &rarr;</div>
 </a>
 
