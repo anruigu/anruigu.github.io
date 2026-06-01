@@ -13,6 +13,12 @@ author_profile: true
   <div class="blog-card__meta">Read on Notion &rarr;</div>
 </a>
 
+<a href="https://app.notion.com/p/IRL-2-RL-algorithms-to-live-by-3717dfe162db80938144c47a317a53f7" class="blog-card" target="_blank" rel="noopener">
+  <div class="blog-card__title">IRL&sup2;: RL Algorithms to Live By</div>
+  <div class="blog-card__preview">I&rsquo;m doing inverse reinforcement learning on myself to know me better. Call it IRL&sup2;, inverse RL in real life.</div>
+  <div class="blog-card__meta">Read on Notion &rarr;</div>
+</a>
+
 </div>
 
 <style>
