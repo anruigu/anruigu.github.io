@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 <div class="blog-series">
-<div class="blog-series__title">RL Algorithms to Live By</div>
+<div class="blog-series__title">ML Algorithms to Live By</div>
 <div class="blog-cards blog-cards--row">
 
 <a href="https://app.notion.com/p/IRL-2-RL-algorithms-to-live-by-3717dfe162db80938144c47a317a53f7" class="blog-card" target="_blank" rel="noopener">
   <div class="blog-card__title">1 -IRL&sup2;</div>
-  <div class="blog-card__preview">I&rsquo;m doing inverse reinforcement learning on myself: inverse RL in real life.</div>
+  <div class="blog-card__preview"> Inverse RL in real life, starting with myself.</div>
   <div class="blog-card__meta">Read on Notion &rarr;</div>
 </a>
 
@@ -22,11 +22,11 @@ author_profile: true
 </a>
 
 
-<div class="blog-card blog-card--placeholder">
-  <div class="blog-card__title">3-Regret</div>
-  <div class="blog-card__preview">Coming soon.</div>
-  <div class="blog-card__meta">Draft &middot; In progress</div>
-</div>
+<a href="https://app.notion.com/p/3-The-Imitation-Game-3727dfe162db808e8ca2d74733dca741" class="blog-card" target="_blank" rel="noopener">
+  <div class="blog-card__title">3: Imitation </div>
+  <div class="blog-card__preview"> Explanations begin with asking good questions .</div>
+  <div class="blog-card__meta">Read on Notion &rarr;</div>
+</a>
 
 </div>
 </div>
