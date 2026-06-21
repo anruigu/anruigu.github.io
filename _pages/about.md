@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm an RL researcher @ [Fleet](https://fleetai.com). I'm currently focused on agentic social intelligence, with a broad interest in behavior and oversight.
+Hey! I'm an RL researcher @ [Fleet](https://fleetai.com). I'm interested in agentic social intelligence, scalable oversight, and human judgment simulation.
 
 <div class="previously-section" markdown="1">
 
