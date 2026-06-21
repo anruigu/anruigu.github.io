@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Researching social RL, scalable oversight, and human judgment simulation @ [Fleet](https://fleetai.com).
+Hey! I'm an researcher @ [Fleet](https://fleetai.com) working on RL for social intelligence and scalable oversight via human feedback & evalutor generalization.
 
 <div class="previously-section" markdown="1">
 
