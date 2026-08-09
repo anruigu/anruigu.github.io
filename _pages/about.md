@@ -31,15 +31,14 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on agentic behavior and RL for social reasoning.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on agent behavior and social reasoning.
 
 <div class="previously-section" markdown="1">
 
 - xAI: <a href="https://x.ai/news/grok-4-1">Grok 4.1</a> and 4.2 posttraining -- data, recipe, and evals for taste & alignment
 - X: improved your feed -- more personalization, less slop
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
-- Cal: imitation learning from human feedback
 
-I'm a bridge-builder. I swear by the things that **unite** instead of divide us and seek to apply this principle to intelligences in general.
+I'm a bridge-builder. I swear by the things that **unite** us and seek to apply this principle to intelligences in general.
 
 [Goodreads](https://www.goodreads.com/user/show/45587605-anrui-gu)
