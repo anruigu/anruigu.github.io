@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on agent behavior and social MARL.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on autonomouly scaling social intelligence via strategic reasoning & the science of multiagent behavior.
 
 <div class="previously-section" markdown="1">
 
@@ -39,6 +39,4 @@ Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on agent behavior a
 - X: improved your feed -- more personalization, less slop
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
 
-I'm a bridge-builder. I swear by the things that **unite** us and seek to apply this principle to intelligences in general.
-
-[Goodreads](https://www.goodreads.com/user/show/45587605-anrui-gu)
+I'm a bridge-builder. I swear by the things that unite us and seek to apply this principle to intelligences in general.
