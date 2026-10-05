@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on autonomouly scaling social intelligence via strategic reasoning & the science of multiagent behavior.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) interested in environment-behavior provenance, mutliagent RL for principal representation, and epistemic agency.
 
 <div class="previously-section" markdown="1">
 
