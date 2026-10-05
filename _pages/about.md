@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) interested in environment-behavior provenance, mutliagent RL for principal representation, and epistemic agency.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) interested in environment-behavior provenance, multiagent RL for principal representation, and epistemic agency.
 
 <div class="previously-section" markdown="1">
 
