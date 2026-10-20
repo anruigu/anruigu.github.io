@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-behavior provenance and collective epistemics.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-behavior provenance and collective decision-making.
 
 <div class="previously-section" markdown="1">
 
