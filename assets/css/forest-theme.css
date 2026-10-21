@@ -50,8 +50,13 @@
 
 /* Ensure main content is above stripes (skip .masthead so its sticky positioning and
    dropdown z-index aren't clobbered — otherwise later body children paint over the mobile dropdown). */
-body > *:not(#green-stripes):not(.masthead) {
+body > *:not(#green-stripes):not(.masthead):not(.page__footer) {
   position: relative;
+  z-index: 1;
+}
+
+/* Footer keeps its absolute sticky-footer positioning from _footer.scss; just lift it above the stripes. */
+.page__footer {
   z-index: 1;
 }
 
