@@ -35,7 +35,7 @@ Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-beha
 
 <div class="previously-section" markdown="1">
 
-- xAI: <a href="https://x.ai/news/grok-4-1">Grok 4.1</a> and 4.2 posttraining -- data, recipe, and evals for taste & alignment
+- xAI: <a href="https://x.ai/news/grok-4-1">Grok 4.1</a> and 4.2 posttraining -- data, recipe, and evals for non-verifiable domains & user alignment
 - X: improved your feed -- more personalization, less slop
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
 
