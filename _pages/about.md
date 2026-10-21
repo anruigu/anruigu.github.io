@@ -31,7 +31,7 @@ redirect_from:
 
 </div>
 
-Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-behavior provenance and collective decision-making.
+Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-behavior provenance and cooperative alignment.
 
 <div class="previously-section" markdown="1">
 
@@ -40,3 +40,4 @@ Hey! I'm a researcher @ [Fleet](https://fleetai.com) working on environment-beha
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
 
 I swear by the things that unite us and seek to apply this principle to intelligences in general. I believe that understanding and modeling multi-agent behavior is not only a critical safety direction, but also a paradigm for more understanding and flourishing in human society.
+
