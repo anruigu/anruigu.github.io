@@ -12,7 +12,7 @@ author_profile: true
   <div class="pub-card__authors"><strong>Anrui (Allie) Gu</strong>, Zhichao Wang, Nicolai Ouporov</div>
   <div class="pub-card__preview">An agentic system that takes a natural language behavior description and performs targeted elicitation interventions on game environments, turning multiagent games into programmable test beds for behavior evaluation.</div>
   <div class="pub-card__meta">
-    <a href="/files/fig.pdf" target="_blank" rel="noopener">Paper &rarr;</a>
+    <a href="https://arxiv.org/abs/2610.28891" target="_blank" rel="noopener">Paper &rarr;</a>
     <a href="https://github.com/fleet-ai/fig" target="_blank" rel="noopener">Code &rarr;</a>
   </div>
 </div>
