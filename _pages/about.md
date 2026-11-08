@@ -15,9 +15,9 @@ redirect_from:
 <div class="contact-section contact-section--top" markdown="1">
 
 <div class="social-links">
-  <a href="https://github.com/anruigu" class="social-link">
-    <i class="fab fa-github"></i>
-    <span>GitHub</span>
+  <a href="https://gaiaquest.substack.com/" class="social-link">
+    <i class="fas fa-newspaper"></i>
+    <span>Substack</span>
   </a>
   <a href="https://x.com/endlessgit" class="social-link">
     <i class="fab fa-twitter"></i>
