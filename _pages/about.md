@@ -39,4 +39,4 @@ Hey! I lead [oversight research](https://www.lesswrong.com/posts/fBBDLoxqZZafP3x
 - X: improved your feed -- more personalization, less slop
 - Smith: led trademarked [semiconductor computer vision](https://smithweb.com/general/introducing-argus-smiths-visual-inspection-solution-powered-by-ai/) deployed globally
 
-I swear by the things that unite us and seek to apply this principle to intelligences in general, currently via multi-agent evals and post-training. I also write about technical and philosophical questions about human-AI co-evolution.
+I swear by the things that unite us and seek to apply this principle to different intelligences, currently via multi-agent evals and post-training. I also write about technical and philosophical questions around human-AI co-evolution.
